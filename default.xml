@@ -9,10 +9,8 @@
            sync-j="4" />
 
   <project path="binutils" name="linux/kernel/git/hjl/binutils.git" revision="hjl/lto/master"/>
-  <project path="gcc" name="git/gcc.git" remote="git://gcc.gnu.org/" />
-  <project path="newlib" name="aeste/newlib.git" remote="https://github.com/" />
-  <project path="gdb" name="git/gdb.git" remote="git://sourceware.org/" />
-
-
+  <project path="gcc" name="git://gcc.gnu.org/git/gcc.git" />
+  <project path="newlib" name="https://github.com/aeste/newlib.git" />
+  <project path="gdb" name="git://sourceware.org/git/gdb.git" />
 
 </manifest>
