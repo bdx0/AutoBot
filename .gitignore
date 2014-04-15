@@ -34,10 +34,10 @@ xcuserdata/
 
 
 ##### Python modules
-MANIFEST
-dist/
-build/
-*.py[cod]
+#MANIFEST
+#dist/
+#build/
+#*.py[cod]
 
 ##### Backup files
 *~.nib
@@ -46,7 +46,7 @@ build/
 *.egg
 *.egg-info
 dist
-build
+#build
 eggs
 parts
 bin
